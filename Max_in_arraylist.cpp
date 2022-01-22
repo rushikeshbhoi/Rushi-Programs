@@ -24,5 +24,5 @@ int main()
 
     cout<<"\nThe maximum element in the array list is "<<max;
 
-
+return 0;
 }
